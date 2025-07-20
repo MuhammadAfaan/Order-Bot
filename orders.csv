@@ -1,6 +1,0 @@
-timestamp,user_id,order,status
-2025-07-20T13:31:46.723178,user_001,"2x Cheese Burger, 1x Coke",pending
-2025-07-20T13:41:53.836080,user_001,"zinger burger, fries",pending
-2025-07-20T13:42:11.493928,user_001,sprite,pending
-2025-07-20T13:42:42.656588,user_001,coke,pending
-user_001,#921c24e9,double cheese burger,03457259290,"House 1324, Multan",pending
